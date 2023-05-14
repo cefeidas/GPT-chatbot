@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#chat-form {
+    margin-bottom: 20px;
+}
+#chatbot-response {
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 100px;
+}
